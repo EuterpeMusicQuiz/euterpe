@@ -1,8 +1,4 @@
-from ._version import __version__
-
-
-def main() -> None:
-    print(f"Euterpe v{__version__}")
+from .main import main
 
 
 if __name__ == "__main__":
