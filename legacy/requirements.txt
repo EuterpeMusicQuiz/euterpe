@@ -1,0 +1,10 @@
+colorama==0.4.1
+configparser==3.7.1
+matplotlib==3.0.2
+numpy==1.16.1
+progress==1.4
+pyacoustid==1.1.5
+pydub==0.23.1
+python-speech-features==0.6
+requests==2.21.0
+scipy==1.2.0
