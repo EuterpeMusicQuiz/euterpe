@@ -20,7 +20,6 @@ class ConfigBaseModel(BaseModel):
 
 class StorageConfig(ConfigBaseModel):
     __slots__ = ()
-    data_dir: Path
     index_file: Path
     samples_dir: Path
 
